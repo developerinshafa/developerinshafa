@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Inshafa
+# 👋 Hi, I'm Fathima Inshafa
 
 ### 💻 Full-Stack Web Developer | Passionate Learner | Problem Solver
 
